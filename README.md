@@ -22,7 +22,7 @@ This is a script for FiveM that allows your members to put in a Emergecy Alert f
 
 
 ## Installing
-1. [Download EAS](https://github.com/EditnameOG/EAS/blob/main/eas.zip) **<- Download link**
+1. [Download EAS](https://github.com/EditnameOG/EAS/archive/refs/heads/main.zip) **<- Download link**
 2. Edit Line 5 in the config.lua file with the amount of time message should show.
 3. Upload to your resource folder.
 4. Add "start eas" to your server.cfg
